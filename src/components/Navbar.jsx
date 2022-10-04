@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { Search, ShoppingBasketOutlined } from "@material-ui/icons";
-import { Badge, Menu } from "@material-ui/core";
+import { Badge } from "@material-ui/core";
 
 const Container = styled.div`
   height: 60px;
@@ -70,12 +70,12 @@ const Navbar = () => {
           <Language>EN</Language>
           <SearchContainer>
             <Input />
-            <Search style={{color:"gray", fontSize:16}} />
+            <Search style={{ color: "gray", fontSize: 16 }} />
           </SearchContainer>
         </Left>
 
         <Center>
-          <Logo>EDIE.</Logo>
+          <Logo>tote store.</Logo>
         </Center>
 
         <Right>
