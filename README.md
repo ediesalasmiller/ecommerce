@@ -9,6 +9,20 @@ A simple e- commerce app using React, Redux, ES7
 ### styled-components
 ### material-ui/core material-ui/icons
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
