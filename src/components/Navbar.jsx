@@ -42,10 +42,14 @@ const Input = styled.input`
 const Center = styled.div`
   flex: 1;
   text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
 `;
 
 const Logo = styled.h1`
   font-weight: bold;
+  margin-right: 10px;
 `;
 
 //RIGHT SIDE OF NAVBAR
@@ -75,7 +79,8 @@ const Navbar = () => {
         </Left>
 
         <Center>
-          <Logo>tote store.</Logo>
+          <Logo>tote store</Logo>
+          <h6>by tj</h6>
         </Center>
 
         <Right>
