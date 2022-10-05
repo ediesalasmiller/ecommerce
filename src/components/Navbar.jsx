@@ -80,7 +80,7 @@ const Navbar = () => {
 
         <Center>
           <Logo>tote store</Logo>
-          <h6>by tj</h6>
+          <h6>edie</h6>
         </Center>
 
         <Right>
