@@ -4,11 +4,14 @@ import styled from "styled-components";
 import { sliderItems } from "../data";
 
 const Container = styled.div`
-width: 100%;
-height 100%;
-display: flex;
-position: relative;
-overflow: hidden;
+  width: 100%;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+  height: 90vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 `;
 
 const Arrow = styled.div`
