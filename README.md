@@ -9,23 +9,21 @@ A simple e- commerce app using React, Redux, ES7
 ### styled-components
 ### material-ui/core material-ui/icons
 
-
-
-
-
-
-
-
-
-
-
-
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
 
 In the project directory, you can run:
 
@@ -85,15 +83,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-EDIES NOTES
-
-npm start
-
-
-Extenstions:
- ES7+ React/Reduc/React-Native snippets
-
- Libraries:
- npm styled-components
- FOR ICONS
- npm material-ui/core material-ui/icons
